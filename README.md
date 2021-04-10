@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning VM escape.
 - 📝 My blog: https://cool-y.github.io/
 - 🏫 Bachelor: Sichuan university; Master: Wuhan university
-- 💬 Ask me about ...
 - 📫 Hit me up: cool.yim@foxmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ‘Fun Facts’ Are Never Fun
+- 💬 Ask me about ...
+
 
 <!-- 访客 -->
 <p align="center">
