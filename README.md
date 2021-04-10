@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cool-Y)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently focus on IoT security.
 - 🌱 I’m currently learning VM escape.
 - 📝 My blog: https://cool-y.github.io/
@@ -9,6 +7,8 @@
 - ⚡ Fun fact: ‘Fun Facts’ Are Never Fun
 - 💬 Ask me about ...
 
+
+[![Cool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cool-Y)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 访客 -->
 <p align="center">
